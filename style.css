@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+    
+}
+body {
+
+    text-align: center;
+    margin-top: 50px;
+    background-color: #f1d7b3;
+  }
+  #button{
+    margin-top: 20px;
+    padding: 20px;
+    width: 8%;
+    margin: auto;
+    font-size: 20px;
+  }
+  button {
+    padding: 10px 25px;
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: rgb(28, 20, 3);
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: rgb(68, 64, 62);
+  }
