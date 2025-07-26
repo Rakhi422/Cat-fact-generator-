@@ -1,1 +1,1 @@
-# Cat-fact-generator-
+ Name-Rakhi Pandey,Student I'd -1401/INFI25/017, email I'd-rakhipandey422@gmail.com, project description -A simple and fun web app that displays a random cat fact each time you click a button. Built using HTML, CSS, and JavaScript with a free public API.
